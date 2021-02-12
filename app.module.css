@@ -1,0 +1,19 @@
+.mainwraper{
+    width: 100%;
+    height: 100vh;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.headersec{
+    width: 100%;
+    height: 70px;
+    border-bottom: 1px solid gray;
+    background-color: gray;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

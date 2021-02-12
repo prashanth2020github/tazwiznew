@@ -1,0 +1,16 @@
+.allpostwrapper{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.allpostwrapper button{
+    padding: 10px 30px;
+    background-color: gray;
+    margin: 10px;
+    outline: none;
+    border: 1px solid black;
+    border-radius: 10px;
+}
